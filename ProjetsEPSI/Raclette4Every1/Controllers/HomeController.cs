@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace Raclette4Every1.Controllers
 {
+	//Commit 12:49
     public class HomeController : Controller
     {
         public ActionResult Index()
