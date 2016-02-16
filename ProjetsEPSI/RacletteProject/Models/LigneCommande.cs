@@ -17,5 +17,8 @@ namespace RacletteProject.Models
         public int? id_Produit { get; set; }
 
         public int? id_Commande { get; set; }
+
+        public Commande Commande { get; set; }
+
     }
 }
